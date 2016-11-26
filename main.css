@@ -1,0 +1,12 @@
+blockquote { 
+    color: blue ; 
+}
+
+h1 { color: rgba(0,0,0,0.6); }
+
+strong { color: #00f; color: #f00;}
+
+td[colspan="4"] {
+   font-size: 120px;
+}
+/* p { color: navy } */
